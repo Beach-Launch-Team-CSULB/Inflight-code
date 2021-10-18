@@ -1,4 +1,4 @@
-# cython: infer_types=True
+-# cython: infer_types=True
 # cython: language_level=3
 from time import time
 import adafruit_bmp3xx
